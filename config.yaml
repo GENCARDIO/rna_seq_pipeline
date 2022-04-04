@@ -1,0 +1,20 @@
+GRCh37:
+  fasta: ""
+  gff3: ""
+  gtf: ""
+  hisat2_index: ""
+GRCh38:
+  fasta: ""
+  gff3: ""
+  gtf: "/home/bdelolmo/Desktop/reference/GRCh38/gtf/gencode.v39.annotation.gtf.gz"
+  hisat2_index: "/home/bdelolmo/Desktop/reference/GRCh38/grch38/genome"
+hg19:
+  fasta: ucsc.hg19.fasta
+  gff3: ""
+  gtf: ""
+  hisat2_index: ""
+hg38:
+  fasta: ucsc.hg19.fasta
+  gff3: ""
+  gtf: ""
+  hisat2_index: ""

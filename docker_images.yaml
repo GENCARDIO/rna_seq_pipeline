@@ -1,0 +1,12 @@
+salmon:
+  image: combinelab/salmon:latest
+  version: latest
+featureCounts:
+  image: dsaha0295/featurecounts
+  version: latest
+fastqc:
+  image: pegi3s/fastqc
+  version: latest
+multiqc:
+  image: ewels/multiqc
+  version: latest
